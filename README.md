@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 Ciências
 ## Escola Estadual Emílio de Menezes
 
-https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white
+
