@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanieleCortezi
 - 👀 Estou estudando Java e Scratch
-- 🌱 Atualemtne estou aprendendo o GitHub
+- 🌱 Atualmente estou aprendendo o GitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
